@@ -1,7 +1,7 @@
 # Developer Assistant README
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iamnaveenoff/dev-assistant/master/icon/coding.png"/>
+  <img src="https://raw.githubusercontent.com/iamnaveenoff/vscode-extension/master/icon/coding.png"/>
   <h1 align="center">Dev Assistant</h1>
   <h4 align="center">Usefull Developer tools and info at one place...</h4>
   <br>
